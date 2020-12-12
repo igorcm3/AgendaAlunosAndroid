@@ -40,6 +40,7 @@
 
         <RatingBar
             android:id="@+id/rbNota"
+            android:progressTint="#FFD700"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
